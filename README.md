@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Greg.Fun!
 
-You can use the [editor on GitHub](https://github.com/gta-productions/greg.fun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I don't know what I'm going to do with this site yet.  Probably post pictures, gifs, and jokes that have all made me laugh out loud.  But that's just the first idea.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Markdown is pretty cool
 
-### Markdown
+Here's some basic information in case you want to use it to create an issue, submit a PR, etc.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gta-productions/greg.fun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have something funny you want to include on this site?  Let me know via [greg@gregallen.net](mailto:greg@gregallen.net)
